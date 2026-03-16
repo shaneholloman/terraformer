@@ -6,6 +6,10 @@
 [![AUR package](https://img.shields.io/aur/version/terraformer)](https://aur.archlinux.org/packages/terraformer/)
 [![Homebrew](https://img.shields.io/badge/dynamic/json.svg?url=https://formulae.brew.sh/api/formula/terraformer.json&query=$.versions.stable&label=homebrew)](https://formulae.brew.sh/formula/terraformer)
 
+**This project is no longer maintained and is deprecated.**
+
+As of March 16, 2026, this repository has been archived. It is now read-only, and no further updates, security patches, or support will be provided.
+
 A CLI tool that generates `tf`/`json` and `tfstate` files based on existing infrastructure
 (reverse Terraform).
 
